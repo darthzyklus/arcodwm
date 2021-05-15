@@ -18,7 +18,7 @@ run "dex $HOME/.config/autostart/arcolinux-welcome-app.desktop"
 
 run "nm-applet"
 run "pamac-tray"
-run "variety"
+#run "variety"
 run "xfce4-power-manager"
 run "blueberry-tray"
 run "/usr/lib/xfce4/notifyd/xfce4-notifyd"
